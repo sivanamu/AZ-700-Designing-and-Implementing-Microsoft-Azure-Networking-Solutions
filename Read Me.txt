@@ -1,0 +1,10 @@
+There is a version of the Lab Manual in a PDF format and a version in Microsoft Word format
+The Lab Files folder contains powershell scripts and JSON files that will be used in the labs.
+
+
+Download the AZ-104 Lab Manual and Files zip folder to your local computer
+Open the following zip folders and copy their contents:
+Open the Lab Files.zip and copy the folder named Lab Files to your local computer
+Open the Lab Manual- MS Word.zip and copy the folder named Lab Manual-MS Word to your local computer
+Open the Lab Manual-PDF.zip and copy the folder named Lab Manual-PDF to your local computer
+
